@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\LyAppTool\LyTool\obj\Debug\net5.0-windows7.0\LyTool.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\LyAppTool\LyTool\obj\Debug\net5.0-windows7.0\LyTool.ControlPanelForm.resources
+C:\Users\ADMIN\Desktop\LyAppTool\LyTool\obj\Debug\net5.0-windows7.0\LyTool.Form1.resources
+C:\Users\ADMIN\Desktop\LyAppTool\LyTool\obj\Debug\net5.0-windows7.0\LyTool.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\LyAppTool\LyTool\obj\Debug\net5.0-windows7.0\LyTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LyAppTool\LyTool\obj\Debug\net5.0-windows7.0\LyTool.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LyAppTool\LyTool\obj\Debug\net5.0-windows7.0\LyTool.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LyAppTool\LyTool\obj\Debug\net5.0-windows7.0\LyTool.csproj.CoreCompileInputs.cache

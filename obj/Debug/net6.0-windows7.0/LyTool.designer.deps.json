@@ -1,0 +1,21 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ScreenRecorderLib/6.4.0": {}
+    }
+  },
+  "libraries": {
+    "ScreenRecorderLib/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LWn9mvJdidVYVwRPzLbGy5Ba5aIplxYfMvwL0aC+7HPdiBomiWlrC3BqsBW8oAdPBECETVT5lBCFntsaiH8DOw==",
+      "path": "screenrecorderlib/6.4.0",
+      "hashPath": "screenrecorderlib.6.4.0.nupkg.sha512"
+    }
+  }
+}
