@@ -1,1 +1,5 @@
+- Thuần Việt
+- Nhẹ dễ sử dụng
+- Chất lượng video và âm thanh tốt
+- Code sạch
 - Đang phát triển
